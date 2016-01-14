@@ -5,6 +5,12 @@ test3
 test4
 =======
 test4
+<<<<<<< HEAD
 test5
 test6
+>>>>>>> master
+=======
+test infinit
+test mai mic
+dfsdfsdfsdgfgdfgdfgdgddfgfg
 >>>>>>> master
